@@ -1,0 +1,66 @@
+.subscription-plans {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+  background-color: #1c1c1c;
+}
+
+.plan {
+  background-color: #2d2d2d;
+  color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  width: 300px;
+  text-align: center;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.plan.sold-out {
+  background-color: #3d3d3d;
+}
+
+.plan h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.original-price {
+  text-decoration: line-through;
+  color: #ff6b6b;
+  font-size: 20px;
+}
+
+.price {
+  font-size: 28px;
+  margin: 10px 0;
+}
+
+.description {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+ul li {
+  margin: 10px 0;
+}
+
+button {
+  background-color: #ff8c00;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:disabled {
+  background-color: #555;
+  cursor: not-allowed;
+}
