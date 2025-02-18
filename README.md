@@ -1,4 +1,4 @@
-Brain Tumour Classification & Prediction Web Application
+ # Brain Tumour Classification & Prediction Web Application
 
 Overview
 
@@ -38,46 +38,14 @@ Integrated subscription plans using Stripe for seamless and secure payment proce
 
 Deployed a Llama 3 8B medical chatbot to provide real-time assistance and answer user queries, enhancing the overall user experience.
 
-Technologies & Tools
-
-Deep Learning: TensorFlow/Keras (CNN-based model)
-
-Backend Development: Flask (Python)
-
-Frontend & UI: HTML/CSS, JavaScript (frameworks as applicable)
-
-Payment Integration: Stripe
-
-Chatbot Integration: Llama 3 8B
-
-Skills Demonstrated
-
-Machine Learning
-
-Artificial Intelligence (AI)
-
-React.js
-
-Data Science
-
-Node.js
-
-TensorFlow
-
-Pandas
-
-Convolutional Neural Networks (CNN)
-
-LLaMA
-
-Large Language Models (LLM)
-
-Website Building
-
-Web Development
-
-Pipeline Design
-
-
+## Demo
 ![Alt Text](home.png)
+![Alt Text](chatbot.png)
+![Alt Text](prediction.png)
+![Alt Text](pricing.png)
+![Alt Text](signin.png)
+![Alt Text](signup.png)
+![Alt Text](accuracy.png)
+
+
 
